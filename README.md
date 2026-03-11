@@ -6,13 +6,6 @@ Shorten long URLs, get analytics, and manage your links through a clean dashboar
 
 ---
 
-## Preview
-
-**Live Site** → [https://clippyurl.vercel.app/](https://clippyurl.vercel.app/)  
-**Repo** → [https://github.com/kartikey2004-git/URL-Shortener](https://github.com/kartikey2004-git/URL-Shortener)
-
----
-
 ## Tech Stack
 
 | Layer       | Tools Used                               |
