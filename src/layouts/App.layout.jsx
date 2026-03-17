@@ -35,7 +35,7 @@ const AppLayout = () => {
               </a>
             </div>
             <p className="text-xs text-muted-foreground font-medium">
-              Made by <span className="text-foreground font-bold italic">Kartikey</span>
+              Made by <span className="text-foreground font-bold italic">Jasmeet Singh</span>
             </p>
           </div>
         </div>
